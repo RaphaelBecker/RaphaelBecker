@@ -16,7 +16,7 @@ I am an aerospace / automotive engineer with a strong passion for the digital tr
 
 <img align="left" height="25px" src="/Icons/maven.png" /> Maven
 
-<img align="left" height="25px" src="/Icons/make.png" />  Make
+<img align="left" height="27px" src="/Icons/make.png" />  Make
 
 <img align="left" height="25px" src="/Icons/spring.png" /> Spring
 

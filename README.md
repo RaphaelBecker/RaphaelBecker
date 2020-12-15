@@ -4,7 +4,8 @@ I am an aerospace / automotive engineer with a strong passion for the digital tr
 
 ## How to reach me:
 
-:email:[raphael.b@live.de](mailto:raphael.b@live.de)<br />
+:email: [raphael.b@live.de](mailto:raphael.b@live.de)<br />
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/raphael-becker-832690173/)
 
 ## Languages and tools that I use
 

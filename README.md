@@ -8,7 +8,7 @@ I am an aerospace / automotive engineer with a strong passion for the digital tr
 
 ## Languages and tools that I use
 
-<img align="left" height="25px" src="/Icons/Java.png" /> Java
+<img align="left" height="25px" src="/Icons/java.png" /> Java
 
 <img align="left" height="25px" src="/Icons/c++.png" /> C/C++
 
@@ -16,7 +16,7 @@ I am an aerospace / automotive engineer with a strong passion for the digital tr
 
 <img align="left" height="25px" src="/Icons/maven.png" /> Maven
 
-<img align="left" height="25px" src="/Icons/maake.png" /> Make
+<img align="left" height="25px" src="/Icons/make.png" /> Make
 
 <img align="left" height="25px" src="/Icons/spring.png" /> Spring
 

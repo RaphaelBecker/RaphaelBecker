@@ -1,16 +1,25 @@
-### Hi there 👋
+## Welcome to my github page
 
-<!--
-**RaphaelBecker/RaphaelBecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aerospace / automotive engineer with a strong passion for the digital transformation. With my postgraduate studies at TUM, I'm currently perfecting my skills in the field of computer science. 
 
-Here are some ideas to get you started:
+## How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:email:[raphael.b@live.de](mailto:raphael.b@live.de)<br />
+
+## Languages and tools that I use
+
+<img align="left" height="25px" src="/Icons/Java.png" /> Java
+
+<img align="left" height="25px" src="/Icons/c++.png" /> C/C++
+
+<img align="left" alt="Email" height="25px" src="/Icons/python3.png" /> Python
+
+<img align="left" height="25px" src="/Icons/maven.png" /> Maven
+
+<img align="left" height="25px" src="/Icons/maake.png" /> Make
+
+<img align="left" height="25px" src="/Icons/spring.png" /> Spring
+
+<img align="left" height="25px" src="/Icons/wireshark.png" /> Wireshark
+
+<img align="left" height="25px" src="/Icons/jira.png" /> Jira

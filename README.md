@@ -6,7 +6,7 @@ I am an aerospace / automotive engineer with a strong passion for the digital tr
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/raphael-becker-832690173/)
 
-## Languages and tools that I use
+## Languages and tools that I use:
 
 <img align="left" height="25px" src="/Icons/java.png" /> Java
 

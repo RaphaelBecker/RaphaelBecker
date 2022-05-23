@@ -10,9 +10,9 @@ In my spare time, I work on tools that simplify investment decisions and make th
 
 <img align="left" alt="Email" height="25px" src="/Icons/python3.png" /> Python
 
-<img align="left" height="25px" src="/Icons/java.png" /> Java
-
 <img align="left" height="25px" src="/Icons/c++.png" /> C/C++
+
+<img align="left" height="25px" src="/Icons/java.png" /> Java
 
 <img align="left" height="25px" src="/Icons/maven.png" /> Maven
 

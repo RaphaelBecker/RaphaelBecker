@@ -16,9 +16,5 @@ In my spare time, I work on tools that simplify investment decisions and make th
 
 <img align="left" height="25px" src="/Icons/c++.png" /> C/C++
 
-<img align="left" height="27px" src="/Icons/gnu_make.png" />  Make
-
-<img align="left" height="26px" src="/Icons/wireshark_logo.png" /> Wireshark
-
 <img align="left" height="27px" src="/Icons/jira_icon.png" /> Jira
 

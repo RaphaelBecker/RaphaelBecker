@@ -12,7 +12,7 @@ In my spare time, I work on tools that simplify investment decisions and make th
 
 <img align="left" height="25px" src="/Icons/angular.png" /> Angular
 
-<img align="left" height="25px" src="/Icons/node.png" /> Node
+<img align="left" height="25px" src="/Icons/nodejs.png" /> Node
 
 <img align="left" height="25px" src="/Icons/c++.png" /> C/C++
 

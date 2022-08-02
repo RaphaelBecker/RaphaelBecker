@@ -20,6 +20,8 @@ In my spare time, I work on tools that simplify investment decisions and make th
 
 <img align="left" height="25px" src="/Icons/bash.png" /> Bash
 
+<img align="left" height="27px" src="/Icons/linux.png" /> Linux
+
 <img align="left" height="27px" src="/Icons/wireshark_logo.png" /> Wireshark
 
 <img align="left" height="27px" src="/Icons/jira_icon.png" /> Jira

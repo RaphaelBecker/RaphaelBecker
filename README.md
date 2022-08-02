@@ -10,7 +10,7 @@ In my spare time, I work on tools that simplify investment decisions and make th
 
 <img align="left" alt="Email" height="25px" src="/Icons/python3.png" /> Python
 
-<img align="left" height="27px" src="/Icons/streamlit.png" /> Streamlit
+<img align="left" height="20px" src="/Icons/streamlit.png" /> Streamlit
 
 <img align="left" height="25px" src="/Icons/angular.png" /> Angular
 

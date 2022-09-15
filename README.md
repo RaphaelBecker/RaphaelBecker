@@ -12,9 +12,9 @@ In my spare time, I work on tools that simplify investment decisions and make th
 
 <img align="left" height="15px" src="/Icons/streamlit.png" /> Streamlit
 
-<img align="left" height="25px" src="/Icons/angular.png" /> Angular
+<img align="left" height="25px" src="/Icons/react.png" /> React
 
-<img align="left" height="25px" src="/Icons/node_js.png" /> Node
+// <img align="left" height="25px" src="/Icons/node_js.png" /> Node
 
 <img align="left" height="25px" src="/Icons/c++.png" /> C/C++
 

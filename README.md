@@ -1,7 +1,7 @@
 ## Welcome to my github page
 
 I am an aerospace / automotive engineer with a strong passion for the digital transformation.
-In my spare time, I work on tools that simplify investment decisions and make them accessible in web applications.
+In my spare time, I work on tools, data and fincance apps as well as web applications.
 ## How to reach me:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/raphael-becker-832690173/)

@@ -8,9 +8,9 @@ In my spare time and professionally, I work on automation tools, data and financ
 
 ## Languages and tools that I use:
 
-<img align="left" alt="Email" height="25px" src="/Icons/python3.png" /> Python
+<img align="left" height="25px" src="/Icons/python3.png" /> Python
 
-Dagster
+<img align="left" height="25px" src="/Icons/dagster.png" /> Dagster
 
 Sql Server / Azure
 

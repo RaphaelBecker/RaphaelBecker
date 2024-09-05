@@ -6,9 +6,7 @@ In my spare time and professionally, I work on automation tools, data and financ
 ## How to reach me:
 
 [<img src="./Icons/linkedin_icon.png" align="left" alt="Linkedin" height="45px"/> LinkedIn](https://www.linkedin.com/in/raphael-becker-832690173/)
-
 <br/><br/>
-
 ## Languages and tools that I use:
 
 <img align="left" height="25px" src="/Icons/python3.png" /> Python

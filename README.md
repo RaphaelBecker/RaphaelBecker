@@ -1,12 +1,11 @@
 ## Welcome to my github page
 
-I am an aerospace / automotive engineer with a strong passion for the digital transformation.
+I am an aerospace/automotive engineer specializing in the development of data-intensive applications.
 In my spare time and professionally, I work on automation tools, data and financial apps, as well as IOT solutions and web applications.
+
 ## How to reach me:
 
-
 [<img src="./Icons/linkedin_icon.png" align="left" alt="Linkedin" height="45px">](https://www.linkedin.com/in/raphael-becker-832690173/)
-
 
 ## Languages and tools that I use:
 
@@ -31,6 +30,3 @@ In my spare time and professionally, I work on automation tools, data and financ
 <img align="left" height="27px" src="/Icons/gitlab.png" /> Gitlab
 
 <img align="left" height="27px" src="/Icons/docker_icon.png" /> Docker
-
-
-

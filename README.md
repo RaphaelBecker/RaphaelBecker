@@ -4,15 +4,16 @@ I am an aerospace / automotive engineer with a strong passion for the digital tr
 In my spare time and professionally, I work on automation tools, data and financial apps, as well as IOT solutions and web applications.
 ## How to reach me:
 
-[![Linkedin]([https://i.stack.imgur.com/gVE0j.png](https://i.sstatic.net/gVE0j.png)) LinkedIn](https://www.linkedin.com/in/raphael-becker-832690173/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/raphael-becker-832690173/)
+
 
 ## Languages and tools that I use:
 
 <img align="left" height="25px" src="/Icons/python3.png" /> Python
 
-<img align="left" height="25px" src="/Icons/dagster.png" /> Dagster
+<img align="left" height="27px" src="/Icons/dagster.png" /> Dagster
 
-<img align="left" height="25px" src="/Icons/sqlserver.jpg" /> SQL Server
+<img align="left" height="24px" src="/Icons/sqlserver.jpg" /> SQL Server
 
 <img align="left" height="25px" src="/Icons/react.png" /> React
 

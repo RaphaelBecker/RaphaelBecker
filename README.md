@@ -1,7 +1,7 @@
 ## Welcome to my github page
 
 I am an aerospace/automotive engineer specializing in the development of data-intensive applications.
-In my spare time and professionally, I work on automation tools, data and financial apps, as well as IOT solutions and web applications.
+In my spare time and professionally, I work on automation tools, data and financial apps and web applications.
 
 ## How to reach me:
 

@@ -11,7 +11,7 @@ In my spare time and professionally, I work on automation tools, data and financ
 
 <img align="left" height="25px" src="/Icons/python3.png" /> Python
 
-<img align="left" height="27px" src="/Icons/dagster.png" /> Dagster
+<img align="left" height="30px" src="/Icons/dagster.png" /> Dagster
 
 <img align="left" height="24px" src="/Icons/sqlserver.jpg" /> SQL Server
 

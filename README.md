@@ -4,7 +4,7 @@ I am an aerospace / automotive engineer with a strong passion for the digital tr
 In my spare time and professionally, I work on automation tools, data and financial apps, as well as IOT solutions and web applications.
 ## How to reach me:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/raphael-becker-832690173/)
+[![Linkedin]([https://i.stack.imgur.com/gVE0j.png](https://i.sstatic.net/gVE0j.png)) LinkedIn](https://www.linkedin.com/in/raphael-becker-832690173/)
 
 ## Languages and tools that I use:
 
@@ -12,7 +12,7 @@ In my spare time and professionally, I work on automation tools, data and financ
 
 <img align="left" height="25px" src="/Icons/dagster.png" /> Dagster
 
-Sql Server / Azure
+<img align="left" height="25px" src="/Icons/sqlserver.png" /> SQL Server
 
 <img align="left" height="25px" src="/Icons/react.png" /> React
 
@@ -24,13 +24,11 @@ Sql Server / Azure
 
 <img align="left" height="29px" src="/Icons/linux_bw.png" /> Linux
 
-<img align="left" height="27px" src="/Icons/wireshark_logo.png" /> Wireshark
-
 <img align="left" height="27px" src="/Icons/jira_icon.png" /> Jira
 
-Gitlab
+<img align="left" height="27px" src="/Icons/gitlab.png" /> Gitlab
 
-Docker
+<img align="left" height="27px" src="/Icons/docker.png" /> Docker
 
 
 

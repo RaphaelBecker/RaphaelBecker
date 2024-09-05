@@ -12,7 +12,7 @@ In my spare time and professionally, I work on automation tools, data and financ
 
 <img align="left" height="25px" src="/Icons/dagster.png" /> Dagster
 
-<img align="left" height="25px" src="/Icons/sqlserver.png" /> SQL Server
+<img align="left" height="25px" src="/Icons/sqlserver.jpg" /> SQL Server
 
 <img align="left" height="25px" src="/Icons/react.png" /> React
 
@@ -28,7 +28,7 @@ In my spare time and professionally, I work on automation tools, data and financ
 
 <img align="left" height="27px" src="/Icons/gitlab.png" /> Gitlab
 
-<img align="left" height="27px" src="/Icons/docker.png" /> Docker
+<img align="left" height="27px" src="/Icons/docker_icon.png" /> Docker
 
 
 

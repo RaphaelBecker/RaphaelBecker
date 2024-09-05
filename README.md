@@ -10,7 +10,9 @@ In my spare time and professionally, I work on automation tools, data and financ
 
 <img align="left" alt="Email" height="25px" src="/Icons/python3.png" /> Python
 
-<img align="left" height="15px" src="/Icons/streamlit.png" /> Streamlit
+Dagster
+
+Sql Server / Azure
 
 <img align="left" height="25px" src="/Icons/react.png" /> React
 
@@ -25,4 +27,10 @@ In my spare time and professionally, I work on automation tools, data and financ
 <img align="left" height="27px" src="/Icons/wireshark_logo.png" /> Wireshark
 
 <img align="left" height="27px" src="/Icons/jira_icon.png" /> Jira
+
+Gitlab
+
+Docker
+
+
 

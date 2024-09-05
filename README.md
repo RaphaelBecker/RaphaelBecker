@@ -4,7 +4,7 @@ I am an aerospace / automotive engineer with a strong passion for the digital tr
 In my spare time and professionally, I work on automation tools, data and financial apps, as well as IOT solutions and web applications.
 ## How to reach me:
 
-[![Linkedin]("/Icons/dagster.png")](https://www.linkedin.com/in/raphael-becker-832690173/)
+[![Linkedin](./Icons/linkedin_icon.png)](https://www.linkedin.com/in/raphael-becker-832690173/)
 
 ## Languages and tools that I use:
 

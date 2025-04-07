@@ -3,6 +3,8 @@
 I am an aerospace/automotive engineer specializing in the development of data-intensive applications.
 In my spare time and professionally, I work on automation tools, data and financial apps and web applications.
 
+You can also checkout Gitlab: https://gitlab.com/RaphaelBecker
+
 ## How to reach me:
 
 [<img src="./Icons/linkedin_icon.png" align="left" alt="Linkedin" height="45px"/> LinkedIn](https://www.linkedin.com/in/raphael-becker-832690173/)

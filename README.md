@@ -21,8 +21,6 @@ Recently, I also started using Gitlab. Checkout my public projects here: https:/
 
 <img align="left" height="25px" src="/Icons/node_js.png" /> Node
 
-<img align="left" height="25px" src="/Icons/c++.png" /> C/C++
-
 <img align="left" height="25px" src="/Icons/bash.png" /> Bash
 
 <img align="left" height="29px" src="/Icons/linux_bw.png" /> Linux

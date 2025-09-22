@@ -11,7 +11,7 @@ Recently, I also started using Gitlab. Checkout my public projects here: https:/
 <br/><br/>
 ## Languages and tools that I use:
 
-TypeScript
+<img align="left" height="25px" src="/Icons/TypeScript.png" /> TypeScript
 
 <img align="left" height="25px" src="/Icons/python3.png" /> Python
 
